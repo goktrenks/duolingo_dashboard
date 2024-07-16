@@ -1,5 +1,6 @@
 # Power BI duolingo dashboard
-![image](https://github.com/user-attachments/assets/4444bb51-7032-43d2-b227-eb5af9079c6c)
+![image](https://github.com/user-attachments/assets/cf19dece-05ec-4c39-af1a-3b7a66518887)
+
 
 
 
