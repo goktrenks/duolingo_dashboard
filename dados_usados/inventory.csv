@@ -1,0 +1,193 @@
+item_type,purchase_datetime,active,price_in_virtual_currency,wager_day,payment_processor,product,code_id,expected_expiration
+Streak repair,2024-06-22 08:53:52,true,,,,In-app Purchase,,
+Store Item,2024-06-22 01:21:14,false,,,,In-app Purchase,,2024-06-22 01:32:31
+Store Item,2024-06-22 01:00:58,false,,,,In-app Purchase,,2024-06-22 01:15:58
+Store Item,2024-06-22 01:00:58,false,,,,In-app Purchase,,2024-06-22 01:17:31
+Store Item,2024-06-22 12:36:32,false,,,,In-app Purchase,,2024-06-22 01:02:31
+Store Item,2024-06-22 12:28:31,false,,,,In-app Purchase,,2024-06-22 12:47:31
+Store Item,2024-06-22 12:17:31,false,,,,In-app Purchase,,2024-06-22 12:32:31
+Store Item,2024-06-21 06:42:32,false,,,,In-app Purchase,,2024-06-21 06:57:32
+Store Item,2024-06-21 06:14:53,false,,,,In-app Purchase,,2024-06-21 06:29:53
+Store Item,2024-06-21 09:48:41,true,,15,,In-app Purchase,,
+Gem wager,2024-06-19 02:02:02,true,50,4,,In-app Purchase,,
+Store Item,2024-06-18 01:09:56,false,,,,In-app Purchase,,2024-06-18 01:36:16
+Store Item,2024-06-18 01:01:57,false,,,,In-app Purchase,,2024-06-18 01:21:16
+Store Item,2024-06-18 12:51:16,false,,,,In-app Purchase,,2024-06-18 01:06:16
+Store Item,2024-06-18 12:29:58,false,,,,In-app Purchase,,2024-06-18 12:44:58
+Store Item,2024-06-16 04:57:59,false,,,,In-app Purchase,,2024-06-16 05:12:59
+Store Item,2024-06-16 03:48:54,false,,,,In-app Purchase,,2024-06-16 04:00:54
+Store Item,2024-06-16 03:30:54,false,,,,In-app Purchase,,2024-06-16 03:45:54
+Store Item,2024-06-15 08:46:36,false,,,,In-app Purchase,,2024-06-15 09:15:26
+Store Item,2024-06-15 08:37:18,false,,,,In-app Purchase,,2024-06-15 09:00:26
+Store Item,2024-06-15 08:30:26,false,,,,In-app Purchase,,2024-06-15 08:45:26
+Store Item,2024-06-14 02:26:30,false,,,,In-app Purchase,,2024-06-14 02:41:30
+Store Item,2024-06-14 02:26:30,false,,,,In-app Purchase,,2024-06-14 02:41:30
+Store Item,2024-06-14 12:02:26,false,,,,In-app Purchase,,2024-06-14 12:26:31
+Store Item,2024-06-14 11:50:58,false,,,,In-app Purchase,,2024-06-14 12:11:31
+Store Item,2024-06-14 11:21:21,false,,,,In-app Purchase,,2024-06-14 11:56:31
+Store Item,2024-06-14 11:16:45,false,,,,In-app Purchase,,2024-06-14 11:41:31
+Store Item,2024-06-14 11:11:31,false,,14,,In-app Purchase,,
+Store Item,2024-06-14 11:11:31,false,,,,In-app Purchase,,2024-06-14 11:26:31
+Store Item,2024-06-13 11:46:46,false,,,,In-app Purchase,,2024-06-14 12:14:45
+Store Item,2024-06-13 11:38:57,false,,,,In-app Purchase,,2024-06-13 11:59:45
+Store Item,2024-06-13 11:29:45,false,,,,In-app Purchase,,2024-06-13 11:44:45
+Store Item,2024-06-12 06:50:55,false,,,,In-app Purchase,,2024-06-12 07:14:16
+Store Item,2024-06-12 06:44:16,false,,,,In-app Purchase,,2024-06-12 06:59:16
+Store Item,2024-06-12 10:59:08,false,,,,In-app Purchase,,2024-06-12 11:25:38
+Store Item,2024-06-12 10:55:38,false,,,,In-app Purchase,,2024-06-12 11:10:38
+Store Item,2024-06-12 03:14:43,false,,,,In-app Purchase,,2024-06-12 03:29:43
+Store Item,2024-06-11 08:26:21,false,,,,In-app Purchase,,2024-06-11 08:41:21
+Store Item,2024-06-11 07:39:52,false,,,,In-app Purchase,,2024-06-11 08:00:03
+Store Item,2024-06-11 07:30:03,false,,,,In-app Purchase,,2024-06-11 07:45:03
+Store Item,2024-06-11 06:55:14,false,,,,In-app Purchase,,2024-06-11 07:21:56
+Store Item,2024-06-11 06:51:56,false,,,,In-app Purchase,,2024-06-11 07:06:56
+Store Item,2024-06-11 12:39:52,false,,,,In-app Purchase,,2024-06-11 12:54:52
+Store Item,2024-06-10 03:57:52,false,,,,In-app Purchase,,2024-06-10 04:12:52
+Store Item,2024-06-08 08:30:03,false,,,,In-app Purchase,,2024-06-08 08:45:03
+Store Item,2024-06-08 08:02:00,false,,,,In-app Purchase,,2024-06-08 08:17:00
+Store Item,2024-06-08 07:45:19,false,,,,In-app Purchase,,2024-06-08 08:00:19
+Store Item,2024-06-08 01:03:44,false,,,,In-app Purchase,,2024-06-08 01:18:44
+Store Item,2024-06-07 09:56:45,false,,,,In-app Purchase,,2024-06-07 10:24:16
+Store Item,2024-06-07 09:54:16,false,,,,In-app Purchase,,2024-06-07 10:09:16
+Gem wager,2024-06-07 07:21:15,false,50,7,,In-app Purchase,,
+Store Item,2024-06-07 02:34:53,false,,,,In-app Purchase,,2024-06-07 03:01:10
+Store Item,2024-06-07 02:12:36,false,,,,In-app Purchase,,2024-06-07 02:46:10
+Store Item,2024-06-07 02:11:05,false,,,,In-app Purchase,,2024-06-07 02:31:10
+Store Item,2024-06-07 02:01:10,false,,,,In-app Purchase,,2024-06-07 02:16:10
+Store Item,2024-06-06 01:00:50,false,,,,In-app Purchase,,2024-06-06 01:15:50
+Store Item,2024-06-05 03:30:07,false,,,,In-app Purchase,,2024-06-05 03:45:07
+Store Item,2024-06-05 12:55:09,false,,,,In-app Purchase,,2024-06-05 01:10:09
+Store Item,2024-06-04 02:00:09,false,,,,In-app Purchase,,2024-06-04 02:26:47
+Store Item,2024-06-04 01:56:47,false,,,,In-app Purchase,,2024-06-04 02:11:47
+Store Item,2024-06-03 05:22:26,false,,,,In-app Purchase,,2024-06-03 05:42:42
+Store Item,2024-06-03 05:12:42,false,,,,In-app Purchase,,2024-06-03 05:27:42
+Store Item,2024-06-03 04:31:53,false,,,,In-app Purchase,,2024-06-03 04:46:53
+Store Item,2024-06-03 04:11:14,false,,,,In-app Purchase,,2024-06-03 04:26:14
+Store Item,2024-06-03 01:57:43,false,,,,In-app Purchase,,2024-06-03 02:27:43
+Store Item,2024-06-03 01:57:43,false,,,,In-app Purchase,,2024-06-03 02:27:43
+Store Item,2024-05-31 12:49:44,false,,,,In-app Purchase,,2024-05-31 01:19:33
+Store Item,2024-05-31 12:49:33,false,,,,In-app Purchase,,2024-05-31 01:04:33
+Store Item,2024-05-30 07:29:18,false,,,,In-app Purchase,,2024-05-30 07:44:18
+Store Item,2024-05-30 07:04:17,false,,,,In-app Purchase,,2024-05-30 07:28:12
+Store Item,2024-05-30 06:54:39,false,,,,In-app Purchase,,2024-05-30 07:13:12
+Store Item,2024-05-30 06:43:12,false,,,,In-app Purchase,,2024-05-30 06:58:12
+Store Item,2024-05-30 02:49:31,false,,,,In-app Purchase,,2024-05-30 03:04:31
+Store Item,2024-05-30 02:31:46,false,,,,In-app Purchase,,2024-05-30 02:46:46
+Store Item,2024-05-30 02:09:21,false,,,,In-app Purchase,,2024-05-30 02:24:21
+Store Item,2024-05-28 03:17:30,false,,,,In-app Purchase,,2024-05-28 04:07:31
+Store Item,2024-05-28 03:10:16,false,,,,In-app Purchase,,2024-05-28 03:52:31
+Store Item,2024-05-28 03:07:31,false,,,,In-app Purchase,,2024-05-28 03:37:31
+Store Item,2024-05-28 02:56:48,false,,,,In-app Purchase,,2024-05-28 03:22:31
+Store Item,2024-05-28 02:52:31,false,,,,In-app Purchase,,2024-05-28 03:07:31
+Store Item,2024-05-27 02:12:50,false,,,,In-app Purchase,,2024-05-27 02:40:21
+Store Item,2024-05-27 02:10:21,false,,,,In-app Purchase,,2024-05-27 02:25:21
+Store Item,2024-05-27 01:43:09,false,,,,In-app Purchase,,2024-05-27 01:58:09
+Store Item,2024-05-26 10:52:30,false,,,,In-app Purchase,,2024-05-26 11:13:56
+Store Item,2024-05-26 10:43:56,false,,,,In-app Purchase,,2024-05-26 10:58:56
+Store Item,2024-05-26 10:00:37,false,,,,In-app Purchase,,2024-05-26 10:21:57
+Store Item,2024-05-26 09:51:57,false,,,,In-app Purchase,,2024-05-26 10:06:57
+Store Item,2024-05-26 01:56:16,false,,,,In-app Purchase,,2024-05-26 02:11:16
+Store Item,2024-05-26 01:36:37,false,,,,In-app Purchase,,2024-05-26 01:51:37
+Store Item,2024-05-26 04:00:11,false,,,,In-app Purchase,,2024-05-26 04:34:29
+Store Item,2024-05-26 03:50:05,false,,,,In-app Purchase,,2024-05-26 04:19:29
+Store Item,2024-05-26 03:38:27,false,,,,In-app Purchase,,2024-05-26 04:04:29
+Store Item,2024-05-26 03:34:29,false,,,,In-app Purchase,,2024-05-26 03:49:29
+Store Item,2024-05-26 03:01:38,false,,,,In-app Purchase,,2024-05-26 03:16:38
+Store Item,2024-05-24 11:45:06,false,,,,In-app Purchase,,2024-05-25 12:00:06
+Store Item,2024-05-24 04:14:27,false,,,,In-app Purchase,,2024-05-24 04:29:27
+Store Item,2024-05-24 03:50:36,false,,,,In-app Purchase,,2024-05-24 04:05:36
+Store Item,2024-05-24 03:12:03,false,,,,In-app Purchase,,2024-05-24 03:27:03
+Store Item,2024-05-24 02:32:34,false,,,,In-app Purchase,,2024-05-24 02:50:15
+Store Item,2024-05-24 02:20:15,false,,,,In-app Purchase,,2024-05-24 02:35:15
+Store Item,2024-05-23 02:20:43,false,,,,In-app Purchase,,2024-05-23 02:46:23
+Store Item,2024-05-23 02:13:20,false,,,,In-app Purchase,,2024-05-23 02:31:23
+Store Item,2024-05-23 01:57:19,false,,,,In-app Purchase,,2024-05-23 02:16:23
+Store Item,2024-05-23 01:34:09,false,,,,In-app Purchase,,2024-05-23 02:01:23
+Store Item,2024-05-23 01:31:23,false,,,,In-app Purchase,,2024-05-23 01:46:23
+Store Item,2024-05-22 05:11:56,false,,,,In-app Purchase,,2024-05-22 05:37:46
+Store Item,2024-05-22 05:07:46,false,,,,In-app Purchase,,2024-05-22 05:22:46
+Store Item,2024-05-22 03:45:18,false,,,,In-app Purchase,,2024-05-22 04:00:18
+Store Item,2024-05-22 03:35:41,false,,,,In-app Purchase,,2024-05-22 03:48:44
+Store Item,2024-05-22 03:18:44,false,,,,In-app Purchase,,2024-05-22 03:33:44
+Store Item,2024-05-21 07:51:16,false,,,,In-app Purchase,,2024-05-21 08:13:12
+Store Item,2024-05-21 07:32:10,false,,,,In-app Purchase,,2024-05-21 07:58:12
+Store Item,2024-05-21 07:24:23,false,,,,In-app Purchase,,2024-05-21 07:43:12
+Store Item,2024-05-21 07:13:12,false,,,,In-app Purchase,,2024-05-21 07:28:12
+Store Item,2024-05-19 02:28:29,false,,,,In-app Purchase,,2024-05-19 02:43:29
+Store Item,2024-05-18 03:18:21,false,,,,In-app Purchase,,2024-05-18 03:38:27
+Store Item,2024-05-18 02:54:55,false,,,,In-app Purchase,,2024-05-18 03:23:27
+Store Item,2024-05-18 02:48:14,false,,,,In-app Purchase,,2024-05-18 03:08:27
+Store Item,2024-05-18 02:41:12,false,,30,,In-app Purchase,,
+Store Item,2024-05-18 02:38:27,false,,,,In-app Purchase,,2024-05-18 02:53:27
+Store Item,2024-05-18 12:04:55,false,,,,In-app Purchase,,2024-05-18 12:19:55
+Store Item,2024-05-17 11:38:33,false,,,,In-app Purchase,,2024-05-17 11:55:47
+Store Item,2024-05-17 11:10:47,false,,,,In-app Purchase,,2024-05-17 11:40:47
+Store Item,2024-05-17 09:07:58,false,,,,In-app Purchase,,2024-05-17 09:22:58
+Store Item,2024-05-16 03:49:18,false,,,,In-app Purchase,,2024-05-16 04:14:02
+Store Item,2024-05-16 03:39:43,false,,,,In-app Purchase,,2024-05-16 03:59:02
+Store Item,2024-05-16 03:29:02,false,,,,In-app Purchase,,2024-05-16 03:44:02
+Store Item,2024-05-16 03:07:54,false,,,,In-app Purchase,,2024-05-16 03:22:54
+Store Item,2024-05-15 06:27:40,false,,,,In-app Purchase,,2024-05-15 06:54:24
+Store Item,2024-05-15 06:24:24,false,,,,In-app Purchase,,2024-05-15 06:39:24
+Store Item,2024-05-14 06:33:22,false,,,,In-app Purchase,,2024-05-14 06:48:22
+Store Item,2024-05-14 04:14:43,false,,,,In-app Purchase,,2024-05-14 04:29:43
+Store Item,2024-05-14 02:30:37,false,,,,In-app Purchase,,2024-05-14 02:54:43
+Store Item,2024-05-14 02:12:25,false,,,,In-app Purchase,,2024-05-14 02:39:43
+Store Item,2024-05-14 02:09:43,false,,,,In-app Purchase,,2024-05-14 02:24:43
+Store Item,2024-05-13 02:23:19,false,,,,In-app Purchase,,2024-05-13 02:38:19
+Store Item,2024-05-13 01:15:13,false,,,,In-app Purchase,,2024-05-13 01:44:59
+Store Item,2024-05-13 01:06:21,false,,,,In-app Purchase,,2024-05-13 01:29:59
+Store Item,2024-05-13 12:59:59,false,,,,In-app Purchase,,2024-05-13 01:14:59
+Store Item,2024-05-13 12:41:53,false,,,,In-app Purchase,,2024-05-13 12:56:53
+Store Item,2024-05-12 08:29:16,false,,,,In-app Purchase,,2024-05-12 08:44:16
+Store Item,2024-05-12 06:36:51,false,,,,In-app Purchase,,2024-05-12 07:00:25
+Store Item,2024-05-12 06:30:25,false,,,,In-app Purchase,,2024-05-12 06:45:25
+Store Item,2024-05-12 04:56:41,false,,,,In-app Purchase,,2024-05-12 05:11:41
+Store Item,2024-05-12 04:05:27,false,,,,In-app Purchase,,2024-05-12 04:27:21
+Store Item,2024-05-12 03:55:14,false,,,,In-app Purchase,,2024-05-12 04:12:21
+Store Item,2024-05-12 03:42:21,false,,,,In-app Purchase,,2024-05-12 03:57:21
+Store Item,2024-05-11 09:56:49,false,,,,In-app Purchase,,2024-05-11 10:11:49
+Duolingo Plus subscription,2024-05-11 09:21:57,true,8399,,Google Play,12 month Duolingo Plus Subscription,,2025-05-25 09:21:05
+Store Item,2024-05-11 08:39:08,false,,,,In-app Purchase,,2024-05-11 08:54:08
+Store Item,2024-05-11 01:19:25,false,,,,In-app Purchase,,2024-05-11 01:34:25
+Store Item,2024-05-10 06:42:48,false,,,,In-app Purchase,,2024-05-10 06:57:48
+Store Item,2024-05-10 06:08:26,false,,,,In-app Purchase,,2024-05-10 06:23:26
+Store Item,2024-05-10 05:42:42,false,,,,In-app Purchase,,2024-05-10 05:57:42
+Store Item,2024-05-10 04:38:20,false,,,,In-app Purchase,,2024-05-10 04:53:20
+Store Item,2024-05-10 03:03:54,false,100,,,In-app Purchase,,
+Store Item,2024-05-10 04:14:23,false,,,,In-app Purchase,,2024-05-10 04:51:48
+Store Item,2024-05-10 04:06:48,false,,,,In-app Purchase,,2024-05-10 04:36:48
+Store Item,2024-05-09 07:33:33,false,,,,In-app Purchase,,2024-05-09 07:48:33
+Store Item,2024-05-09 04:09:40,false,,,,In-app Purchase,,2024-05-09 04:24:40
+Store Item,2024-05-08 03:05:49,false,,,,In-app Purchase,,2024-05-08 03:47:24
+Store Item,2024-05-08 03:02:24,false,,,,In-app Purchase,,2024-05-08 03:32:24
+Store Item,2024-05-07 04:54:18,false,,,,In-app Purchase,,2024-05-07 05:23:25
+Store Item,2024-05-07 04:40:40,false,,,Immersive Plus,Duolingo Plus Subscription (Free Trial),,2024-05-10 04:40:40
+Store Item,2024-05-07 04:39:55,false,,,,In-app Purchase,,2024-05-07 05:08:25
+Store Item,2024-05-07 04:23:25,false,,,,In-app Purchase,,2024-05-07 04:53:25
+Store Item,2024-05-07 12:53:14,false,30,,,In-app Purchase,,
+Store Item,2024-05-07 12:51:32,false,,,,In-app Purchase,,2024-05-07 01:06:32
+Store Item,2024-05-06 12:48:54,false,,,,In-app Purchase,,2024-05-06 01:03:54
+Store Item,2024-05-06 03:46:06,false,,,,In-app Purchase,,2024-05-06 04:01:06
+Store Item,2024-05-06 03:13:19,true,,,,In-app Purchase,,
+Store Item,2024-05-06 12:03:39,false,,,,In-app Purchase,,2024-05-06 12:21:14
+Store Item,2024-05-05 11:40:39,false,,,,In-app Purchase,,2024-05-06 12:06:14
+Store Item,2024-05-05 11:36:14,false,,,,In-app Purchase,,2024-05-05 11:51:14
+Health refill,2024-05-05 10:00:20,false,450,,,In-app Purchase,,
+Store Item,2024-05-05 09:57:24,false,,,,In-app Purchase,,2024-05-05 10:12:24
+Store Item,2024-05-05 07:42:54,false,,,,In-app Purchase,,2024-05-05 07:57:54
+Store Item,2024-05-05 07:32:03,false,1800,,,In-app Purchase,,
+Store Item,2024-05-05 06:10:38,false,,,,In-app Purchase,,2024-05-05 06:25:38
+Store Item,2024-05-05 04:52:08,false,,,,In-app Purchase,,
+Store Item,2024-05-05 03:23:10,false,,,,In-app Purchase,,2024-05-05 03:38:10
+Store Item,2024-05-05 02:40:52,false,100,,,In-app Purchase,,
+Store Item,2024-05-05 02:40:36,false,,,,In-app Purchase,,2024-05-05 03:05:32
+Store Item,2024-05-05 02:35:32,false,,,,In-app Purchase,,2024-05-05 02:50:32
+Store Item,2024-05-05 04:22:27,false,450,,,In-app Purchase,,
+Store Item,2024-05-05 04:21:23,false,,,,In-app Purchase,,2024-05-05 04:51:23
+Streak freeze,2024-05-04 09:49:40,true,,,,In-app Purchase,,
+Store Item,2020-01-09 08:21:45,false,,,,In-app Purchase,,2020-01-10 03:00:00
+Superhero outfit,2019-01-22 02:52:24,true,50,,,In-app Purchase,,
+Luxury outfit,2017-07-24 07:32:26,true,30,,,In-app Purchase,,
+Formal outfit,2017-07-24 04:57:32,true,20,,,In-app Purchase,,
+Timed practice,2013-12-19 01:27:55,true,,,,In-app Purchase,,
