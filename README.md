@@ -1,4 +1,4 @@
-# Power BI duolingo dashboard
+# Power BI Duolingo dashboard
 ![image](https://github.com/user-attachments/assets/cf19dece-05ec-4c39-af1a-3b7a66518887)
 
 
